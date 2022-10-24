@@ -1,4 +1,4 @@
-# React Context API Example
+# React - Unit Tests and Integration Tests
 
 Project using React and Typescript to create examples of unit tests and integration tests.
 
